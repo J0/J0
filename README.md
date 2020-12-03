@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Posthog Elixir Client
+- 🔭 I’m currently working on ____
 - 🌱 I’m currently learning Spanish
-- 🤔 I’m looking for help with understanding BEAM
-- 💬 Ask me about Supermarket Design
+- 💬 Ask me about what I'm working on
 - 📫 How to reach me: Telegram
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I like Polar Bears
+- ⚡ Fun fact: Fun.Fact.
 
 [![Joel's github stats](https://github-readme-stats.vercel.app/api?username=j0)](https://github.com/j0/github-readme-stats)
 
