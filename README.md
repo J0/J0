@@ -7,7 +7,7 @@ This space is being updated. Maybe I'll finish updating it on Saturday. Maybe.
 
 <div align="center">
 	<br>
-	<a href="https://github.com/J0/J0/blob/master/header.svgg">
+	<a href="https://github.com/J0/J0/blob/master/header.svg">
 		<img src="header.svg" width="800" height="400">
 	</a>
 	<br>
