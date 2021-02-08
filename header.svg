@@ -45,7 +45,7 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
+					animation: bounce-4 ease-in-out 1s infinite alternate;
 				}
 				p {
 					font-size: 20px;
@@ -54,8 +54,7 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Made with HTML &amp; CSS<br/>not an animated GIF</h1>
-				<p>Click to see the source</p>
+				<h1>Welcome!</h1>
 			</div>
 		</div>
 	</foreignObject>
