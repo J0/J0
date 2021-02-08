@@ -29,7 +29,6 @@
 					height: 400px;
 					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
 					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					color: white;
 					text-align: center;
@@ -45,7 +44,7 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: bounce-4 ease-in-out 1s infinite alternate;
+					animation: bounce-4 ease-in-out 5s infinite alternate;
 				}
 				p {
 					font-size: 20px;
