@@ -1,8 +1,6 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
-			<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.6.0/gsap.min.js"></script>
-
 			<style>
 				@keyframes bounce-4 {
 					0% {
@@ -79,15 +77,6 @@
 			<div class="container">
 				<h1></h1>
 			</div>
-			<div class="rocket">
-			</div>
-			<script>
-				gsap.to(".rocket", {
-					duration: 4,
-					x: 250,
-					y: -550
-				});
-			</script>
 		</div>
 	</foreignObject>
 </svg>
